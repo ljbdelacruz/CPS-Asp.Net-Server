@@ -1,0 +1,11 @@
+
+DB:
+sql7004.site4now.net
+DB_A2E065_cps
+DB_A2E065_cps_admin
+soyamilk_05
+
+CPS URL
+http://geoperson01-001-site1.dtempurl.com
+WebApp
+http://geoperson01-001-site2.dtempurl.com
